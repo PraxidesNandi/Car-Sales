@@ -29,3 +29,5 @@ The dashboard should provide real-time insights into key performance indicators 
 ## Dataset 
 <a href = "https://github.com/PraxidesNandi/Car-Sales/blob/master/Car%20Sales.xlsx"> Dataset </a>
 ## Project
+<a href = "https://github.com/PraxidesNandi/Car-Sales/blob/master/Car_Sales.pbix"> Project </a>
+## Dashboard

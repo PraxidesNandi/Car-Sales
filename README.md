@@ -32,5 +32,5 @@ The dashboard should provide real-time insights into key performance indicators 
 <a href = "https://github.com/PraxidesNandi/Car-Sales/blob/master/Car_Sales.pbix"> Project </a>
 ## Dashboard
 <a href = "https://github.com/PraxidesNandi/Car-Sales/blob/master/Dashboard.png"> Dashboard </a>
-##Details
-<a href = "
+## Details
+<a href = "https://github.com/PraxidesNandi/Car-Sales/blob/master/Details.png"> Details </a>
